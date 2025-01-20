@@ -487,7 +487,7 @@ border-radius: 4px;
 background-image: linear-gradient(
 to bottom, rgba(0,0,0,0) 0%,
  rgba(17,17 , 17, 0.6) 100%), 
- url('/images/pic5.jpg');
+ url('images/pic5.jpg');
 background-size: cover;
 position: relative;
 color: #fff;
@@ -498,7 +498,7 @@ color: #fff;
     background-image: linear-gradient(
 to bottom, rgba(0,0,0,0) 0%,
  rgba(17,17 , 17, 0.6) 100%), 
- url('/images/pic5.jpg');
+ url('images/pic6.jpg');
         
 }
 
@@ -993,7 +993,7 @@ border-radius: 4px;
 background-image: linear-gradient(
 to bottom, rgba(0,0,0,0) 0%,
  rgba(17,17 , 17, 0.6) 100%), 
- url('/images/aus2.jpg');
+ url('images/aus2.jpg');
 background-size: cover;
 position: relative;
 color: #fff;
@@ -1005,7 +1005,7 @@ margin-left: 2rem;
     background-image: linear-gradient(
 to bottom, rgba(0,0,0,0) 0%,
  rgba(17,17 , 17, 0.6) 100%), 
- url('/images/uluru.jpg');
+ url('images/uluru.jpg');
       background-position: center;  
 }
 
@@ -1013,7 +1013,7 @@ to bottom, rgba(0,0,0,0) 0%,
     background-image: linear-gradient(
 to bottom, rgba(0,0,0,0) 0%,
  rgba(17,17 , 17, 0.6) 100%), 
- url('/images/tower.jpg');
+ url('images/tower.jpg');
       background-position: center;  
 }
 
