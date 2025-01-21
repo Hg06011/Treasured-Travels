@@ -10,10 +10,10 @@ menu.addEventListener('click', function(){
 
 
 const images = [
-    '/images/pic6.jpg', 
-    '/images/pic7.jpg',
-    '/images/pic8.jpg',
-    '/images/pic9.jpg' 
+    'images/pic6.jpg', 
+    'images/pic7.jpg',
+    'images/pic8.jpg',
+    'images/pic9.jpg' 
 ];
 
 let currentIndex = 0; 
